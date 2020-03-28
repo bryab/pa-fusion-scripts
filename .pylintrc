@@ -1,0 +1,9 @@
+[VARIABLES]
+# List of additional names supposed to be defined in builtins. Remember that
+# you should avoid to define new builtins when possible.
+# _ is used by our localization
+additional-builtins=comp,fusion,fu,bmd,tool,app
+
+[MESSAGES CONTROL]
+
+disable=wrong-import-position,broad-except,invalid-name,missing-docstring,unused-argument,line-too-long
